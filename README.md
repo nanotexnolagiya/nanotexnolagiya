@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanotexnolagiya&layout=compact)
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nanotexnolagiya/nanotexnolagiya/blob/output/github-contribution-grid-snake.svg)
 
